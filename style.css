@@ -1,0 +1,49 @@
+body{
+    text-align:center;
+    background-image: url("images (1).jpg")
+}
+#g-view img{
+    height:300px;
+    width:300px;
+}
+#s-view img{
+    width:350px;
+    height:400px;
+}
+#wel img{
+height:500px;
+}
+.menu{
+list-style: none;
+position:fixed;
+top: 0px;
+cursor: pointer;
+z-index:10;
+background: white;
+width:100%;
+}
+
+.links{
+font-family:monospace;
+float:left;
+color:black;
+padding-right:9px;
+padding-left: 9px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    font-size:20px;
+    
+}
+.links:hover{
+    background-color:bisque;}
+    h1{
+        font-size:40px;
+        color:black;
+        background-color: white;
+    }
+    .a{
+      color:black;
+        font-weight:bold;
+        font-size:20px;
+        background-color: white;
+    }
